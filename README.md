@@ -15,6 +15,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/biniam0/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/biniam0/LeetCode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/biniam0/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/biniam0/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/biniam0/LeetCode/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/biniam0/LeetCode/tree/master/1720-crawler-log-folder) |
 # Simulation
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/biniam0/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/biniam0/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/biniam0/LeetCode/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/biniam0/LeetCode/tree/master/1720-crawler-log-folder) |
 # Binary Search
