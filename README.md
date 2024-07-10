@@ -50,3 +50,14 @@
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/biniam0/LeetCode/tree/master/0874-backspace-string-compare) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/biniam0/LeetCode/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/biniam0/LeetCode/tree/master/0283-move-zeroes) |
+<!---LeetCode Topics End-->
