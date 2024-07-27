@@ -56,8 +56,13 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/biniam0/LeetCode/tree/master/0283-move-zeroes) |
+| [0777-toeplitz-matrix](https://github.com/biniam0/LeetCode/tree/master/0777-toeplitz-matrix) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/biniam0/LeetCode/tree/master/0283-move-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0777-toeplitz-matrix](https://github.com/biniam0/LeetCode/tree/master/0777-toeplitz-matrix) |
 <!---LeetCode Topics End-->
