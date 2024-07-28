@@ -65,4 +65,12 @@
 |  |
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/biniam0/LeetCode/tree/master/0777-toeplitz-matrix) |
+## Math
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/biniam0/LeetCode/tree/master/2491-smallest-even-multiple) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/biniam0/LeetCode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
