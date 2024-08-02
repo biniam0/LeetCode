@@ -88,6 +88,7 @@
 | [0344-reverse-string](https://github.com/biniam0/LeetCode/tree/master/0344-reverse-string) |
 | [0981-delete-columns-to-make-sorted](https://github.com/biniam0/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/biniam0/LeetCode/tree/master/1044-find-common-characters) |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/biniam0/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 ## Trie
 |  |
 | ------- |
