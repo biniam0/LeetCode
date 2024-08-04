@@ -5,9 +5,13 @@ class Solution(object):
         :type heights: List[int]
         :rtype: List[str]
         """
-        combined = list(zip(heights, names))
+        res = dict()
+        for i in range(len(heights)):
+            res[heights[i]] = names[i]
 
-        combined.sort(key=lambda x: x[0], reverse=True)
+        del names[:]
+        height = sorted(res.keys(), reverse=True)
 
-        sorted_names = [name for height, name in combined]
-        return sorted_names
+        for i in range(len(heights)):
+            names.append(res[height[i]])
+        return names
