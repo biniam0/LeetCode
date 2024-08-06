@@ -59,6 +59,7 @@
 | [0496-next-greater-element-i](https://github.com/biniam0/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0777-toeplitz-matrix](https://github.com/biniam0/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/biniam0/LeetCode/tree/master/0898-transpose-matrix) |
+| [0978-valid-mountain-array](https://github.com/biniam0/LeetCode/tree/master/0978-valid-mountain-array) |
 | [0981-delete-columns-to-make-sorted](https://github.com/biniam0/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/biniam0/LeetCode/tree/master/1044-find-common-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/biniam0/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
