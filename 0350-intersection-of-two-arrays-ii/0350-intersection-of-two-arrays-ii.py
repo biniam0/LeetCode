@@ -5,12 +5,6 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
-        if len(nums1) < len(nums2):
-            nums1 = nums1
-            nums2 = nums2
-        else:
-            nums1, nums2 = nums2, nums1
-
         num_dict = Counter(nums1)
 
         res = []
