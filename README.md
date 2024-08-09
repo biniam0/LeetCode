@@ -55,6 +55,7 @@
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/biniam0/LeetCode/tree/master/0179-largest-number) |
 | [0283-move-zeroes](https://github.com/biniam0/LeetCode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/biniam0/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/biniam0/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/biniam0/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0179-largest-number](https://github.com/biniam0/LeetCode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/biniam0/LeetCode/tree/master/0344-reverse-string) |
 | [0981-delete-columns-to-make-sorted](https://github.com/biniam0/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/biniam0/LeetCode/tree/master/1044-find-common-characters) |
@@ -152,6 +154,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/biniam0/LeetCode/tree/master/0179-largest-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/biniam0/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2502-sort-the-people](https://github.com/biniam0/LeetCode/tree/master/2502-sort-the-people) |
 ## Counting
@@ -162,4 +165,8 @@
 |  |
 | ------- |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/biniam0/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/biniam0/LeetCode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
