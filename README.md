@@ -113,6 +113,7 @@
 | [1044-find-common-characters](https://github.com/biniam0/LeetCode/tree/master/1044-find-common-characters) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/biniam0/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1797-goal-parser-interpretation](https://github.com/biniam0/LeetCode/tree/master/1797-goal-parser-interpretation) |
+| [1970-sorting-the-sentence](https://github.com/biniam0/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2470-removing-stars-from-a-string](https://github.com/biniam0/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/biniam0/LeetCode/tree/master/2502-sort-the-people) |
 | [2594-count-pairs-of-similar-strings](https://github.com/biniam0/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
@@ -172,6 +173,7 @@
 | [0179-largest-number](https://github.com/biniam0/LeetCode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/biniam0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/biniam0/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1970-sorting-the-sentence](https://github.com/biniam0/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2502-sort-the-people](https://github.com/biniam0/LeetCode/tree/master/2502-sort-the-people) |
 ## Counting
 |  |
