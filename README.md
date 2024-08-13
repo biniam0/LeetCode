@@ -97,6 +97,7 @@
 ## Math
 |  |
 | ------- |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/biniam0/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2491-smallest-even-multiple](https://github.com/biniam0/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/biniam0/LeetCode/tree/master/2556-convert-the-temperature) |
 ## Number Theory
@@ -174,6 +175,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/biniam0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/biniam0/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1970-sorting-the-sentence](https://github.com/biniam0/LeetCode/tree/master/1970-sorting-the-sentence) |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/biniam0/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2502-sort-the-people](https://github.com/biniam0/LeetCode/tree/master/2502-sort-the-people) |
 ## Counting
 |  |
