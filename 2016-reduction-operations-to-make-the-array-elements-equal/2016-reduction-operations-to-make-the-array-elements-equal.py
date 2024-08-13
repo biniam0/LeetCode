@@ -4,14 +4,17 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        nums = sorted(nums)
+        if len(nums) <= 1:
+            return 0
+        unique_nums = sorted(list(set(nums)))
+        nums_dict = {}
+        for i in range(len(unique_nums)-1, -1, -1):
+            nums_dict[unique_nums[i]] = i
 
-        ans = 0
-        for i in range(len(nums)-1, 0, -1):
-            if nums[i] != nums[i-1]:
-                ans += len(nums) - i
-
-        return ans
+        count = 0
+        for num in nums:
+            count += nums_dict[num]
+        return count
 
 
         
