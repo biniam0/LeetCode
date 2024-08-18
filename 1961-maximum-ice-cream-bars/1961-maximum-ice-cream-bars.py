@@ -16,8 +16,7 @@ class Solution(object):
             total += cost
             if total <= coins:
                 counts += 1
-            else:
-                return counts
+        else:
+            return counts
             
-        return counts
         
