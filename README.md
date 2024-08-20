@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/biniam0/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/biniam0/LeetCode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/biniam0/LeetCode/tree/master/0179-largest-number) |
 | [0283-move-zeroes](https://github.com/biniam0/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/biniam0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -87,6 +88,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/biniam0/LeetCode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/biniam0/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/biniam0/LeetCode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/biniam0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -185,6 +187,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/biniam0/LeetCode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/biniam0/LeetCode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/biniam0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/biniam0/LeetCode/tree/master/1014-k-closest-points-to-origin) |
