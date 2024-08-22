@@ -70,6 +70,7 @@
 | [0978-valid-mountain-array](https://github.com/biniam0/LeetCode/tree/master/0978-valid-mountain-array) |
 | [0981-delete-columns-to-make-sorted](https://github.com/biniam0/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0999-regions-cut-by-slashes](https://github.com/biniam0/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1009-pancake-sorting](https://github.com/biniam0/LeetCode/tree/master/1009-pancake-sorting) |
 | [1014-k-closest-points-to-origin](https://github.com/biniam0/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1044-find-common-characters](https://github.com/biniam0/LeetCode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/biniam0/LeetCode/tree/master/1217-relative-sort-array) |
@@ -94,6 +95,7 @@
 | [0344-reverse-string](https://github.com/biniam0/LeetCode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/biniam0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0861-flipping-an-image](https://github.com/biniam0/LeetCode/tree/master/0861-flipping-an-image) |
+| [1009-pancake-sorting](https://github.com/biniam0/LeetCode/tree/master/1009-pancake-sorting) |
 | [2551-apply-operations-to-an-array](https://github.com/biniam0/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Matrix
 |  |
@@ -193,6 +195,7 @@
 | [0075-sort-colors](https://github.com/biniam0/LeetCode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/biniam0/LeetCode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/biniam0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1009-pancake-sorting](https://github.com/biniam0/LeetCode/tree/master/1009-pancake-sorting) |
 | [1014-k-closest-points-to-origin](https://github.com/biniam0/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1217-relative-sort-array](https://github.com/biniam0/LeetCode/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/biniam0/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -215,6 +218,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/biniam0/LeetCode/tree/master/0179-largest-number) |
+| [1009-pancake-sorting](https://github.com/biniam0/LeetCode/tree/master/1009-pancake-sorting) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/biniam0/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1961-maximum-ice-cream-bars](https://github.com/biniam0/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 ## Binary Search
