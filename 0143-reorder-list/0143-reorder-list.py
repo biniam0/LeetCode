@@ -32,27 +32,4 @@ class Solution:
             first, second = temp1, temp2
 
 
-        # left = head
-        # stop = False
-
-        # def reorder(right):
-        #     nonlocal left, stop
-        #     if not right:
-        #         return
-
-        #     reorder(right.next)
-
-        #     if stop:
-        #         return
-
-        #     if right == left or right == left.next:
-        #         right.next = None
-        #         stop = True
-
-        #     else:
-        #         temp = left.next
-        #         left.next = right
-        #         left= left.next
-        #         left.next = temp
-        #         left = left.next
-        
+       
