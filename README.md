@@ -322,11 +322,13 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/biniam0/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/biniam0/LeetCode/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/biniam0/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/biniam0/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/biniam0/LeetCode/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/biniam0/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/biniam0/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/biniam0/LeetCode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/biniam0/LeetCode/tree/master/2050-count-good-numbers) |
