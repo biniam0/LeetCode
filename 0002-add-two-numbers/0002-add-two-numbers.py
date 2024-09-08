@@ -9,17 +9,23 @@ class Solution:
         curr = dummy
         carry = 0
         while l1 or l2 or carry:
-            dig1 = l1.val if l1 else 0
-            dig2 = l2.val if l2 else 0
-            
-            res = dig1 + dig2 + carry
-            carry = res//10
-            res = res % 10
-            curr.next = ListNode(res)
+            d1 = l1.val if l1 else 0
+            d2 = l2.val if l2 else 0
+            res = d1 + d2
 
-            curr = curr.next
+            if carry == 1: 
+                res += 1
+                carry = 0
+    
+            if res > 9:
+                curr.next = ListNode(res%10)
+                carry = 1
+            else:
+                curr.next = ListNode(res)
+
             l1 = l1.next if l1 else None
             l2 = l2.next if l2 else None
+            curr = curr.next
 
         return dummy.next
         
