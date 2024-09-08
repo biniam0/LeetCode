@@ -128,6 +128,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/biniam0/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/biniam0/LeetCode/tree/master/0048-rotate-image) |
 | [0342-power-of-four](https://github.com/biniam0/LeetCode/tree/master/0342-power-of-four) |
 | [0797-rabbits-in-forest](https://github.com/biniam0/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -327,6 +328,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/biniam0/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/biniam0/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/biniam0/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0143-reorder-list](https://github.com/biniam0/LeetCode/tree/master/0143-reorder-list) |
@@ -336,6 +338,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/biniam0/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/biniam0/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/biniam0/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/biniam0/LeetCode/tree/master/0203-remove-linked-list-elements) |
