@@ -11,11 +11,8 @@ class Solution:
         while l1 or l2 or carry:
             d1 = l1.val if l1 else 0
             d2 = l2.val if l2 else 0
-            res = d1 + d2
-
-            if carry == 1: 
-                res += 1
-                carry = 0
+            res = d1 + d2 + carry
+            carry = res // 10
     
             if res > 9:
                 curr.next = ListNode(res%10)
