@@ -193,6 +193,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/biniam0/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/biniam0/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/biniam0/LeetCode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/biniam0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -342,6 +343,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/biniam0/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/biniam0/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/biniam0/LeetCode/tree/master/0086-partition-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/biniam0/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/biniam0/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/biniam0/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/biniam0/LeetCode/tree/master/0148-sort-list) |
