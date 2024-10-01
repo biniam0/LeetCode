@@ -3,7 +3,7 @@ class Solution:
         freq = defaultdict(int)
         for num in arr:
             freq[((num % k)+k) % k] += 1
-        print(freq)
+            
         if freq[0] % 2 != 0:
             return False
 
