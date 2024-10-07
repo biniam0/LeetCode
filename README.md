@@ -183,6 +183,7 @@
 | [2470-removing-stars-from-a-string](https://github.com/biniam0/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/biniam0/LeetCode/tree/master/2502-sort-the-people) |
 | [2594-count-pairs-of-similar-strings](https://github.com/biniam0/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/biniam0/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Trie
 |  |
 | ------- |
@@ -196,6 +197,7 @@
 | [2058-concatenation-of-array](https://github.com/biniam0/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2470-removing-stars-from-a-string](https://github.com/biniam0/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/biniam0/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/biniam0/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Design
 |  |
 | ------- |
@@ -243,6 +245,7 @@
 | [0496-next-greater-element-i](https://github.com/biniam0/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/biniam0/LeetCode/tree/master/0739-daily-temperatures) |
 | [2470-removing-stars-from-a-string](https://github.com/biniam0/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/biniam0/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
