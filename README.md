@@ -151,6 +151,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/biniam0/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/biniam0/LeetCode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/biniam0/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/biniam0/LeetCode/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/biniam0/LeetCode/tree/master/0342-power-of-four) |
 | [0797-rabbits-in-forest](https://github.com/biniam0/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -419,11 +420,13 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/biniam0/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/biniam0/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/biniam0/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/biniam0/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/biniam0/LeetCode/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
