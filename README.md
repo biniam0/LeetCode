@@ -133,6 +133,7 @@
 | [0861-flipping-an-image](https://github.com/biniam0/LeetCode/tree/master/0861-flipping-an-image) |
 | [1009-pancake-sorting](https://github.com/biniam0/LeetCode/tree/master/1009-pancake-sorting) |
 | [1923-sentence-similarity-iii](https://github.com/biniam0/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/biniam0/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2551-apply-operations-to-an-array](https://github.com/biniam0/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/biniam0/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Matrix
@@ -181,6 +182,7 @@
 | [1797-goal-parser-interpretation](https://github.com/biniam0/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1923-sentence-similarity-iii](https://github.com/biniam0/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1970-sorting-the-sentence](https://github.com/biniam0/LeetCode/tree/master/1970-sorting-the-sentence) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/biniam0/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2470-removing-stars-from-a-string](https://github.com/biniam0/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/biniam0/LeetCode/tree/master/2502-sort-the-people) |
 | [2594-count-pairs-of-similar-strings](https://github.com/biniam0/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
@@ -245,6 +247,7 @@
 | [0234-palindrome-linked-list](https://github.com/biniam0/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/biniam0/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/biniam0/LeetCode/tree/master/0739-daily-temperatures) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/biniam0/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2470-removing-stars-from-a-string](https://github.com/biniam0/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/biniam0/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
@@ -309,6 +312,7 @@
 | [1303-minimum-moves-to-reach-target-score](https://github.com/biniam0/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/biniam0/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1961-maximum-ice-cream-bars](https://github.com/biniam0/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/biniam0/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/biniam0/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3151-minimum-processing-time](https://github.com/biniam0/LeetCode/tree/master/3151-minimum-processing-time) |
 ## Binary Search
