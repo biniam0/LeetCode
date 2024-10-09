@@ -130,6 +130,7 @@
 | [0287-find-the-duplicate-number](https://github.com/biniam0/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/biniam0/LeetCode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/biniam0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/biniam0/LeetCode/tree/master/0567-permutation-in-string) |
 | [0861-flipping-an-image](https://github.com/biniam0/LeetCode/tree/master/0861-flipping-an-image) |
 | [1009-pancake-sorting](https://github.com/biniam0/LeetCode/tree/master/1009-pancake-sorting) |
 | [1923-sentence-similarity-iii](https://github.com/biniam0/LeetCode/tree/master/1923-sentence-similarity-iii) |
@@ -176,6 +177,7 @@
 | [0014-longest-common-prefix](https://github.com/biniam0/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/biniam0/LeetCode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/biniam0/LeetCode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/biniam0/LeetCode/tree/master/0567-permutation-in-string) |
 | [0981-delete-columns-to-make-sorted](https://github.com/biniam0/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/biniam0/LeetCode/tree/master/1044-find-common-characters) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/biniam0/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -226,6 +228,7 @@
 | [0169-majority-element](https://github.com/biniam0/LeetCode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/biniam0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/biniam0/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/biniam0/LeetCode/tree/master/0567-permutation-in-string) |
 | [0797-rabbits-in-forest](https://github.com/biniam0/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0999-regions-cut-by-slashes](https://github.com/biniam0/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1044-find-common-characters](https://github.com/biniam0/LeetCode/tree/master/1044-find-common-characters) |
@@ -366,6 +369,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/biniam0/LeetCode/tree/master/0567-permutation-in-string) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/biniam0/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Ordered Set
 |  |
