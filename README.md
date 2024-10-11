@@ -104,6 +104,7 @@
 | [1961-maximum-ice-cream-bars](https://github.com/biniam0/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/biniam0/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/biniam0/LeetCode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/biniam0/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2058-concatenation-of-array](https://github.com/biniam0/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/biniam0/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2502-sort-the-people](https://github.com/biniam0/LeetCode/tree/master/2502-sort-the-people) |
@@ -241,6 +242,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/biniam0/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/biniam0/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/biniam0/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/biniam0/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2502-sort-the-people](https://github.com/biniam0/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/biniam0/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2594-count-pairs-of-similar-strings](https://github.com/biniam0/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
@@ -372,6 +374,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/biniam0/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [1014-k-closest-points-to-origin](https://github.com/biniam0/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/biniam0/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/biniam0/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Quickselect
 |  |
 | ------- |
