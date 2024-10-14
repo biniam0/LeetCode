@@ -112,6 +112,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/biniam0/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/biniam0/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2594-count-pairs-of-similar-strings](https://github.com/biniam0/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/biniam0/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3151-minimum-processing-time](https://github.com/biniam0/LeetCode/tree/master/3151-minimum-processing-time) |
 ## Two Pointers
 |  |
@@ -333,6 +334,7 @@
 | [1961-maximum-ice-cream-bars](https://github.com/biniam0/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/biniam0/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/biniam0/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/biniam0/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/biniam0/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3151-minimum-processing-time](https://github.com/biniam0/LeetCode/tree/master/3151-minimum-processing-time) |
 ## Binary Search
@@ -381,6 +383,7 @@
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/biniam0/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/biniam0/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/biniam0/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/biniam0/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Quickselect
 |  |
 | ------- |
