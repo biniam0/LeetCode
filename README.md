@@ -58,6 +58,7 @@
 | [0011-container-with-most-water](https://github.com/biniam0/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/biniam0/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/biniam0/LeetCode/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/biniam0/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/biniam0/LeetCode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/biniam0/LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/biniam0/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -322,6 +323,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/biniam0/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/biniam0/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/biniam0/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/biniam0/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/biniam0/LeetCode/tree/master/0179-largest-number) |
@@ -455,6 +457,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/biniam0/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/biniam0/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/biniam0/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/biniam0/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
