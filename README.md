@@ -369,6 +369,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/biniam0/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/biniam0/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/biniam0/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0988-flip-equivalent-binary-trees](https://github.com/biniam0/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/biniam0/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/biniam0/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -495,6 +496,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/biniam0/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/biniam0/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/biniam0/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0988-flip-equivalent-binary-trees](https://github.com/biniam0/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/biniam0/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/biniam0/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -506,6 +508,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/biniam0/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/biniam0/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/biniam0/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0988-flip-equivalent-binary-trees](https://github.com/biniam0/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/biniam0/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/biniam0/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Merge Sort
