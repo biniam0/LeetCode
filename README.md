@@ -96,6 +96,7 @@
 | [1217-relative-sort-array](https://github.com/biniam0/LeetCode/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/biniam0/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/biniam0/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/biniam0/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/biniam0/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/biniam0/LeetCode/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/biniam0/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -194,6 +195,7 @@
 | [1044-find-common-characters](https://github.com/biniam0/LeetCode/tree/master/1044-find-common-characters) |
 | [1197-parsing-a-boolean-expression](https://github.com/biniam0/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/biniam0/LeetCode/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/biniam0/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/biniam0/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/biniam0/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/biniam0/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -209,6 +211,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/biniam0/LeetCode/tree/master/0014-longest-common-prefix) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/biniam0/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Simulation
 |  |
 | ------- |
@@ -371,6 +374,7 @@
 | [0617-merge-two-binary-trees](https://github.com/biniam0/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/biniam0/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/biniam0/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/biniam0/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/biniam0/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
