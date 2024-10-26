@@ -130,6 +130,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/biniam0/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/biniam0/LeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/biniam0/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/biniam0/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/biniam0/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/biniam0/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/biniam0/LeetCode/tree/master/0148-sort-list) |
@@ -187,6 +188,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/biniam0/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/biniam0/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/biniam0/LeetCode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/biniam0/LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/biniam0/LeetCode/tree/master/0567-permutation-in-string) |
