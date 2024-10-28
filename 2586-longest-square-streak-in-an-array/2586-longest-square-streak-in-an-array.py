@@ -1,12 +1,11 @@
 class Solution:
     def longestSquareStreak(self, nums: List[int]) -> int:
-        nums.sort(reverse=True)
-        n = len(nums)
-
+        nums.sort()
+        
         seen = {}
-        for i, x in enumerate(nums):
-            if x*x in seen:
-                seen[x] = seen[x*x]+1
+        for x in nums:
+            if sqrt(x) in seen:
+                seen[x] = seen[sqrt(x)]+1
             else:
                 seen[x] = 1
         ans = max(seen.values())
