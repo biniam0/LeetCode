@@ -71,6 +71,7 @@
 | [0169-majority-element](https://github.com/biniam0/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/biniam0/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/biniam0/LeetCode/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/biniam0/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/biniam0/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/biniam0/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/biniam0/LeetCode/tree/master/0322-coin-change) |
@@ -311,6 +312,7 @@
 | [0148-sort-list](https://github.com/biniam0/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/biniam0/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/biniam0/LeetCode/tree/master/0179-largest-number) |
+| [0274-h-index](https://github.com/biniam0/LeetCode/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/biniam0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/biniam0/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1009-pancake-sorting](https://github.com/biniam0/LeetCode/tree/master/1009-pancake-sorting) |
@@ -482,6 +484,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/biniam0/LeetCode/tree/master/0274-h-index) |
 | [1217-relative-sort-array](https://github.com/biniam0/LeetCode/tree/master/1217-relative-sort-array) |
 ## Game Theory
 |  |
