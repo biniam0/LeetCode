@@ -220,6 +220,7 @@
 | [2580-circular-sentence](https://github.com/biniam0/LeetCode/tree/master/2580-circular-sentence) |
 | [2594-count-pairs-of-similar-strings](https://github.com/biniam0/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/biniam0/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3451-string-compression-iii](https://github.com/biniam0/LeetCode/tree/master/3451-string-compression-iii) |
 ## Trie
 |  |
 | ------- |
