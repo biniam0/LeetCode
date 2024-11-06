@@ -123,6 +123,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/biniam0/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/biniam0/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3151-minimum-processing-time](https://github.com/biniam0/LeetCode/tree/master/3151-minimum-processing-time) |
+| [3291-find-if-array-can-be-sorted](https://github.com/biniam0/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Two Pointers
 |  |
 | ------- |
@@ -311,6 +312,7 @@
 | [0861-flipping-an-image](https://github.com/biniam0/LeetCode/tree/master/0861-flipping-an-image) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/biniam0/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2594-count-pairs-of-similar-strings](https://github.com/biniam0/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
+| [3291-find-if-array-can-be-sorted](https://github.com/biniam0/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Sorting
 |  |
 | ------- |
@@ -342,6 +344,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/biniam0/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/biniam0/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3151-minimum-processing-time](https://github.com/biniam0/LeetCode/tree/master/3151-minimum-processing-time) |
+| [3291-find-if-array-can-be-sorted](https://github.com/biniam0/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
 |  |
 | ------- |
