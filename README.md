@@ -61,6 +61,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/biniam0/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/biniam0/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/biniam0/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/biniam0/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/biniam0/LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/biniam0/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/biniam0/LeetCode/tree/master/0075-sort-colors) |
@@ -208,6 +209,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/biniam0/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/biniam0/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/biniam0/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/biniam0/LeetCode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/biniam0/LeetCode/tree/master/0344-reverse-string) |
@@ -271,6 +273,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/biniam0/LeetCode/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/biniam0/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/biniam0/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/biniam0/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -333,6 +336,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/biniam0/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/biniam0/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/biniam0/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/biniam0/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/biniam0/LeetCode/tree/master/0147-insertion-sort-list) |
