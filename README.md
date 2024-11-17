@@ -91,6 +91,7 @@
 | [0860-design-circular-queue](https://github.com/biniam0/LeetCode/tree/master/0860-design-circular-queue) |
 | [0861-flipping-an-image](https://github.com/biniam0/LeetCode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/biniam0/LeetCode/tree/master/0890-lemonade-change) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/biniam0/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0898-transpose-matrix](https://github.com/biniam0/LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/biniam0/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0978-valid-mountain-array](https://github.com/biniam0/LeetCode/tree/master/0978-valid-mountain-array) |
@@ -268,6 +269,7 @@
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/biniam0/LeetCode/tree/master/0860-design-circular-queue) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/biniam0/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0969-number-of-recent-calls](https://github.com/biniam0/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/biniam0/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Data Stream
@@ -386,6 +388,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/biniam0/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/biniam0/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/biniam0/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/biniam0/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Greedy
@@ -422,6 +425,7 @@
 | [0287-find-the-duplicate-number](https://github.com/biniam0/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/biniam0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0729-my-calendar-i](https://github.com/biniam0/LeetCode/tree/master/0729-my-calendar-i) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/biniam0/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/biniam0/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/biniam0/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/biniam0/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -470,6 +474,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/biniam0/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/biniam0/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1014-k-closest-points-to-origin](https://github.com/biniam0/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/biniam0/LeetCode/tree/master/1304-longest-happy-string) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/biniam0/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -484,6 +489,7 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/biniam0/LeetCode/tree/master/0567-permutation-in-string) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/biniam0/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/biniam0/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/biniam0/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Ordered Set
@@ -494,6 +500,7 @@
 ## Monotonic Queue
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/biniam0/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/biniam0/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Linked List
 |  |
