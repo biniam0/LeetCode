@@ -1,16 +1,19 @@
-class Solution(object):
-    def searchMatrix(self, matrix, target):
-        """
-        :type matrix: List[List[int]]
-        :type target: int
-        :rtype: bool
-        """
-        m = len(matrix[0]) - 1
-
-        for row in matrix:
-            if row[m] >= target:
-                if target in row:
+class Solution:
+    def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
+        def helper(row):
+            n = len(row)
+            l, r = 0, n-1
+            while l <= r:
+                mid = (l+r)//2
+                if row[mid] == target:
                     return True
+                elif row[mid] < target:
+                    l = mid + 1
                 else:
-                    return False
+                    r = mid - 1    
         
+        for row in matrix:
+            if helper(row):
+                return True
+            
+        return False
