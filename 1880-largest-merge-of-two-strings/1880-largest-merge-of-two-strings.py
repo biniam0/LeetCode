@@ -10,15 +10,21 @@ class Solution:
                 res += word2[j]
                 j += 1
             else:
-                temp_i, temp_j = i, j
-                while temp_i < len(word1) and temp_j < len(word2) and word1[temp_i] == word2[temp_j]:
-                    temp_i += 1
-                    temp_j += 1
-                
-                if temp_j == len(word2) or (temp_i < len(word1) and word1[temp_i] > word2[temp_j]):
+                if word1[i:] > word2[j:]:
                     res += word1[i]
                     i += 1
                 else:
                     res += word2[j]
                     j += 1
+                # temp_i, temp_j = i, j
+                # while temp_i < len(word1) and temp_j < len(word2) and word1[temp_i] == word2[temp_j]:
+                #     temp_i += 1
+                #     temp_j += 1
+                
+                # if temp_j == len(word2) or (temp_i < len(word1) and word1[temp_i] > word2[temp_j]):
+                #     res += word1[i]
+                #     i += 1
+                # else:
+                #     res += word2[j]
+                #     j += 1
         return res + word1[i:] + word2[j:]
