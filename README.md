@@ -129,6 +129,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/biniam0/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2058-concatenation-of-array](https://github.com/biniam0/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2089-maximum-matrix-sum](https://github.com/biniam0/LeetCode/tree/master/2089-maximum-matrix-sum) |
+| [2102-find-the-middle-index-in-array](https://github.com/biniam0/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/biniam0/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/biniam0/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/biniam0/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -427,6 +428,7 @@
 | [0724-find-pivot-index](https://github.com/biniam0/LeetCode/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/biniam0/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/biniam0/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2102-find-the-middle-index-in-array](https://github.com/biniam0/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/biniam0/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Greedy
 |  |
