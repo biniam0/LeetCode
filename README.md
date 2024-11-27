@@ -77,6 +77,7 @@
 | [0189-rotate-array](https://github.com/biniam0/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/biniam0/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/biniam0/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/biniam0/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/biniam0/LeetCode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/biniam0/LeetCode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/biniam0/LeetCode/tree/master/0283-move-zeroes) |
@@ -211,6 +212,7 @@
 | [0048-rotate-image](https://github.com/biniam0/LeetCode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/biniam0/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/biniam0/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/biniam0/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/biniam0/LeetCode/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/biniam0/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/biniam0/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -317,6 +319,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/biniam0/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/biniam0/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/biniam0/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/biniam0/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/biniam0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/biniam0/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/biniam0/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -374,6 +377,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/biniam0/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/biniam0/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/biniam0/LeetCode/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/biniam0/LeetCode/tree/master/0861-flipping-an-image) |
@@ -393,6 +397,7 @@
 | [0169-majority-element](https://github.com/biniam0/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/biniam0/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/biniam0/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/biniam0/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/biniam0/LeetCode/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/biniam0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/biniam0/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -470,6 +475,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/biniam0/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/biniam0/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/biniam0/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/biniam0/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/biniam0/LeetCode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/biniam0/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/biniam0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
