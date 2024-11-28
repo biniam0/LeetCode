@@ -92,6 +92,7 @@
 | [0523-continuous-subarray-sum](https://github.com/biniam0/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/biniam0/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/biniam0/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0594-longest-harmonious-subsequence](https://github.com/biniam0/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0724-find-pivot-index](https://github.com/biniam0/LeetCode/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/biniam0/LeetCode/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/biniam0/LeetCode/tree/master/0739-daily-temperatures) |
@@ -328,6 +329,7 @@
 | [0523-continuous-subarray-sum](https://github.com/biniam0/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/biniam0/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/biniam0/LeetCode/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/biniam0/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/biniam0/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0999-regions-cut-by-slashes](https://github.com/biniam0/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1044-find-common-characters](https://github.com/biniam0/LeetCode/tree/master/1044-find-common-characters) |
@@ -403,6 +405,7 @@
 | [0274-h-index](https://github.com/biniam0/LeetCode/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/biniam0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/biniam0/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0594-longest-harmonious-subsequence](https://github.com/biniam0/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1009-pancake-sorting](https://github.com/biniam0/LeetCode/tree/master/1009-pancake-sorting) |
 | [1014-k-closest-points-to-origin](https://github.com/biniam0/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/biniam0/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -428,6 +431,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/biniam0/LeetCode/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/biniam0/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/biniam0/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/biniam0/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/biniam0/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -551,6 +555,7 @@
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/biniam0/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/biniam0/LeetCode/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/biniam0/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/biniam0/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/biniam0/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1755-defuse-the-bomb](https://github.com/biniam0/LeetCode/tree/master/1755-defuse-the-bomb) |
