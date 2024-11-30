@@ -246,6 +246,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/biniam0/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/biniam0/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/biniam0/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/biniam0/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/biniam0/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/biniam0/LeetCode/tree/master/0179-largest-number) |
@@ -370,6 +371,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/biniam0/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/biniam0/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/biniam0/LeetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/biniam0/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
