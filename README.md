@@ -208,6 +208,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/biniam0/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/biniam0/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/biniam0/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/biniam0/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Matrix
 |  |
 | ------- |
@@ -297,6 +298,7 @@
 | [2594-count-pairs-of-similar-strings](https://github.com/biniam0/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/biniam0/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/biniam0/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/biniam0/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/biniam0/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3447-clear-digits](https://github.com/biniam0/LeetCode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/biniam0/LeetCode/tree/master/3451-string-compression-iii) |
