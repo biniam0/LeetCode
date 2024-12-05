@@ -151,6 +151,7 @@
 | [2195-time-needed-to-buy-tickets](https://github.com/biniam0/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/biniam0/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/biniam0/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2355-maximum-consecutive-floors-without-special-floors](https://github.com/biniam0/LeetCode/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/biniam0/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/biniam0/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/biniam0/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -486,6 +487,7 @@
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/biniam0/LeetCode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/biniam0/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/biniam0/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2355-maximum-consecutive-floors-without-special-floors](https://github.com/biniam0/LeetCode/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/biniam0/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/biniam0/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/biniam0/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
