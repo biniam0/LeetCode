@@ -163,6 +163,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/biniam0/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/biniam0/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/biniam0/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/biniam0/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/biniam0/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/biniam0/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/biniam0/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -400,6 +401,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/biniam0/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/biniam0/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/biniam0/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/biniam0/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/biniam0/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Stack
 |  |
@@ -495,6 +497,7 @@
 | [2502-sort-the-people](https://github.com/biniam0/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/biniam0/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/biniam0/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/biniam0/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/biniam0/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/biniam0/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3151-minimum-processing-time](https://github.com/biniam0/LeetCode/tree/master/3151-minimum-processing-time) |
@@ -546,6 +549,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/biniam0/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/biniam0/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/biniam0/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/biniam0/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/biniam0/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2716-prime-subtraction-operation](https://github.com/biniam0/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3151-minimum-processing-time](https://github.com/biniam0/LeetCode/tree/master/3151-minimum-processing-time) |
@@ -569,6 +573,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/biniam0/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/biniam0/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/biniam0/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/biniam0/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/biniam0/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/biniam0/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Depth-First Search
