@@ -81,6 +81,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/biniam0/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/biniam0/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/biniam0/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/biniam0/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/biniam0/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/biniam0/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/biniam0/LeetCode/tree/master/0274-h-index) |
@@ -366,6 +367,7 @@
 | [0169-majority-element](https://github.com/biniam0/LeetCode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/biniam0/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/biniam0/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/biniam0/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/biniam0/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/biniam0/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/biniam0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -464,6 +466,7 @@
 | [0179-largest-number](https://github.com/biniam0/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/biniam0/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/biniam0/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/biniam0/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/biniam0/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/biniam0/LeetCode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/biniam0/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -500,6 +503,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/biniam0/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/biniam0/LeetCode/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/biniam0/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/biniam0/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/biniam0/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
