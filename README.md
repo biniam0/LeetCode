@@ -147,6 +147,7 @@
 | [2058-concatenation-of-array](https://github.com/biniam0/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2089-maximum-matrix-sum](https://github.com/biniam0/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/biniam0/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2164-two-best-non-overlapping-events](https://github.com/biniam0/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/biniam0/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/biniam0/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/biniam0/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -491,6 +492,7 @@
 | [1961-maximum-ice-cream-bars](https://github.com/biniam0/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1970-sorting-the-sentence](https://github.com/biniam0/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/biniam0/LeetCode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
+| [2164-two-best-non-overlapping-events](https://github.com/biniam0/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/biniam0/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/biniam0/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/biniam0/LeetCode/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
@@ -572,6 +574,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/biniam0/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/biniam0/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/biniam0/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2164-two-best-non-overlapping-events](https://github.com/biniam0/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/biniam0/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/biniam0/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/biniam0/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -627,6 +630,7 @@
 | [1304-longest-happy-string](https://github.com/biniam0/LeetCode/tree/master/1304-longest-happy-string) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/biniam0/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/biniam0/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2164-two-best-non-overlapping-events](https://github.com/biniam0/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/biniam0/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/biniam0/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Quickselect
@@ -721,6 +725,7 @@
 | [0322-coin-change](https://github.com/biniam0/LeetCode/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/biniam0/LeetCode/tree/master/0413-arithmetic-slices) |
 | [1013-fibonacci-number](https://github.com/biniam0/LeetCode/tree/master/1013-fibonacci-number) |
+| [2164-two-best-non-overlapping-events](https://github.com/biniam0/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/biniam0/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/biniam0/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Memoization
