@@ -301,6 +301,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/biniam0/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1797-goal-parser-interpretation](https://github.com/biniam0/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1880-largest-merge-of-two-strings](https://github.com/biniam0/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/biniam0/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/biniam0/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1970-sorting-the-sentence](https://github.com/biniam0/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/biniam0/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -403,6 +404,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/biniam0/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/biniam0/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/biniam0/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/biniam0/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/biniam0/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/biniam0/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/biniam0/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -526,6 +528,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/biniam0/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/biniam0/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/biniam0/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/biniam0/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/biniam0/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/biniam0/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Prefix Sum
