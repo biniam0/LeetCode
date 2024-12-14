@@ -1,20 +1,16 @@
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        next_g = []
-        n = len(nums2)
-
-        for i in range(n):
-            j = i+1
-            while j < len(nums2):
-                if nums2[i] < nums2[j]:
-                    break
-                j += 1
-            next_g.append(nums2[j] if j < n else -1)
-
-        res = []
+        idx_map = {}
+        res = [-1]*len(nums1)
 
         for i in range(len(nums1)):
-            idx = nums2.index(nums1[i])
-            res.append(next_g[idx])
+            idx_map[nums1[i]] = i
+
+        for i in range(len(nums2)):
+            if nums2[i] in idx_map:
+                for j in range(i+1, len(nums2)):
+                    if nums2[i] < nums2[j]:
+                        res[idx_map[nums2[i]]] = nums2[j]
+                        break
 
         return res
