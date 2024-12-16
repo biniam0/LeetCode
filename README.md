@@ -131,6 +131,7 @@
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/biniam0/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/biniam0/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/biniam0/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1370-count-number-of-nice-subarrays](https://github.com/biniam0/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/biniam0/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/biniam0/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/biniam0/LeetCode/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
@@ -262,6 +263,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/biniam0/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/biniam0/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/biniam0/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1370-count-number-of-nice-subarrays](https://github.com/biniam0/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/biniam0/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/biniam0/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2050-count-good-numbers](https://github.com/biniam0/LeetCode/tree/master/2050-count-good-numbers) |
@@ -412,6 +414,7 @@
 | [1217-relative-sort-array](https://github.com/biniam0/LeetCode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/biniam0/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/biniam0/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1370-count-number-of-nice-subarrays](https://github.com/biniam0/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/biniam0/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/biniam0/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/biniam0/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -559,6 +562,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/biniam0/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/biniam0/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/biniam0/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1370-count-number-of-nice-subarrays](https://github.com/biniam0/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/biniam0/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2102-find-the-middle-index-in-array](https://github.com/biniam0/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/biniam0/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -698,6 +702,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/biniam0/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/biniam0/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/biniam0/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/biniam0/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/biniam0/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1755-defuse-the-bomb](https://github.com/biniam0/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/biniam0/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
