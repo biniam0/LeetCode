@@ -116,6 +116,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/biniam0/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0898-transpose-matrix](https://github.com/biniam0/LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/biniam0/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0966-binary-subarrays-with-sum](https://github.com/biniam0/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0978-valid-mountain-array](https://github.com/biniam0/LeetCode/tree/master/0978-valid-mountain-array) |
 | [0981-delete-columns-to-make-sorted](https://github.com/biniam0/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0999-regions-cut-by-slashes](https://github.com/biniam0/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -403,6 +404,7 @@
 | [0567-permutation-in-string](https://github.com/biniam0/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/biniam0/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/biniam0/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0966-binary-subarrays-with-sum](https://github.com/biniam0/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/biniam0/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/biniam0/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/biniam0/LeetCode/tree/master/1044-find-common-characters) |
@@ -555,6 +557,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/biniam0/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/biniam0/LeetCode/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/biniam0/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/biniam0/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/biniam0/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/biniam0/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2102-find-the-middle-index-in-array](https://github.com/biniam0/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
@@ -694,6 +697,7 @@
 | [0567-permutation-in-string](https://github.com/biniam0/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/biniam0/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/biniam0/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/biniam0/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/biniam0/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1755-defuse-the-bomb](https://github.com/biniam0/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/biniam0/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
