@@ -136,6 +136,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/biniam0/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/biniam0/LeetCode/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/biniam0/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/biniam0/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/biniam0/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/biniam0/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/biniam0/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -456,6 +457,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/biniam0/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/biniam0/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/biniam0/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/biniam0/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/biniam0/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/biniam0/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/biniam0/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -471,6 +473,7 @@
 | [0739-daily-temperatures](https://github.com/biniam0/LeetCode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/biniam0/LeetCode/tree/master/0883-car-fleet) |
 | [1002-maximum-width-ramp](https://github.com/biniam0/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/biniam0/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/biniam0/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Bit Manipulation
 |  |
