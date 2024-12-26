@@ -257,6 +257,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/biniam0/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/biniam0/LeetCode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/biniam0/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/biniam0/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/biniam0/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/biniam0/LeetCode/tree/master/0268-missing-number) |
@@ -292,6 +293,7 @@
 | [0014-longest-common-prefix](https://github.com/biniam0/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/biniam0/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/biniam0/LeetCode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/biniam0/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/biniam0/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/biniam0/LeetCode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/biniam0/LeetCode/tree/master/0187-repeated-dna-sequences) |
@@ -346,6 +348,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/biniam0/LeetCode/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/biniam0/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/biniam0/LeetCode/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/biniam0/LeetCode/tree/master/0861-flipping-an-image) |
@@ -489,6 +492,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/biniam0/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/biniam0/LeetCode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/biniam0/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/biniam0/LeetCode/tree/master/0268-missing-number) |
