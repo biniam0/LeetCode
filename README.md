@@ -274,6 +274,7 @@
 | [1635-number-of-good-pairs](https://github.com/biniam0/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/biniam0/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2050-count-good-numbers](https://github.com/biniam0/LeetCode/tree/master/2050-count-good-numbers) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/biniam0/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/biniam0/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2491-smallest-even-multiple](https://github.com/biniam0/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/biniam0/LeetCode/tree/master/2556-convert-the-temperature) |
@@ -359,6 +360,7 @@
 | [2058-concatenation-of-array](https://github.com/biniam0/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/biniam0/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/biniam0/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/biniam0/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/biniam0/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2470-removing-stars-from-a-string](https://github.com/biniam0/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/biniam0/LeetCode/tree/master/2551-apply-operations-to-an-array) |
