@@ -167,6 +167,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/biniam0/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/biniam0/LeetCode/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/biniam0/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/biniam0/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/biniam0/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/biniam0/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/biniam0/LeetCode/tree/master/2502-sort-the-people) |
@@ -592,6 +593,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/biniam0/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/biniam0/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2102-find-the-middle-index-in-array](https://github.com/biniam0/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2358-number-of-ways-to-split-array](https://github.com/biniam0/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/biniam0/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/biniam0/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/biniam0/LeetCode/tree/master/3427-special-array-ii) |
