@@ -148,6 +148,7 @@
 | [1755-defuse-the-bomb](https://github.com/biniam0/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/biniam0/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/biniam0/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/biniam0/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/biniam0/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/biniam0/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1961-maximum-ice-cream-bars](https://github.com/biniam0/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
@@ -324,6 +325,7 @@
 | [1797-goal-parser-interpretation](https://github.com/biniam0/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1880-largest-merge-of-two-strings](https://github.com/biniam0/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/biniam0/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/biniam0/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/biniam0/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1970-sorting-the-sentence](https://github.com/biniam0/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/biniam0/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -594,6 +596,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/biniam0/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/biniam0/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/biniam0/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/biniam0/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/biniam0/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/biniam0/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2102-find-the-middle-index-in-array](https://github.com/biniam0/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
