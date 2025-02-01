@@ -1,18 +1,24 @@
-class Solution(object):
-    def interpret(self, command):
-        """
-        :type command: str
-        :rtype: str
-        """
-        result = ""
-        for i in range(len(command)):
-            if command[i] == "G":
-                result += "G"
-            elif command[i] == "(" and command[i+1] == ")":
-                result += "o"
-                i += 2
-            elif command[i] == "(" and command[i+1] == "a":
-                result += "al"
-                i += 4
+class Solution:
+    def interpret(self, command: str) -> str:
+        res = ""
+        tmp = ""
 
-        return result
+        for char in command:
+            if tmp == "G":
+                res += "G"
+                tmp = ""
+            elif tmp == "()":
+                res += "o"
+                tmp = ""
+            elif tmp == "(al)":
+                res += "al"
+                tmp = ""
+            tmp += char
+
+        if tmp == "G":
+            res += "G"
+        elif tmp == "()":
+            res += "o"
+        elif tmp == "(al)":
+            res += "al"
+        return res
