@@ -148,6 +148,7 @@
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/biniam0/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1755-defuse-the-bomb](https://github.com/biniam0/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/biniam0/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/biniam0/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/biniam0/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/biniam0/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/biniam0/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
