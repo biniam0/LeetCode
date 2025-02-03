@@ -1,10 +1,12 @@
 class Solution:
     def isCovered(self, ranges: List[List[int]], left: int, right: int) -> bool:
-        ranges.sort()
-        for start, end in ranges:
-            if start <= left <= end:
-                left = end + 1
-                
-            if left > right:
-                return True
-        return False
+        ans = True
+        for i in range(left, right+1):
+            for s, e in ranges:
+                if i in set(range(s, e+1)):
+                    break
+            else:
+                ans = False
+
+
+        return ans
