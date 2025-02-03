@@ -320,6 +320,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/biniam0/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/biniam0/LeetCode/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/biniam0/LeetCode/tree/master/0812-rotate-string) |
+| [0858-masking-personal-information](https://github.com/biniam0/LeetCode/tree/master/0858-masking-personal-information) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/biniam0/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0981-delete-columns-to-make-sorted](https://github.com/biniam0/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/biniam0/LeetCode/tree/master/1044-find-common-characters) |
