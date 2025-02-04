@@ -202,6 +202,7 @@
 | [3427-special-array-ii](https://github.com/biniam0/LeetCode/tree/master/3427-special-array-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/biniam0/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/biniam0/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3651-transformed-array](https://github.com/biniam0/LeetCode/tree/master/3651-transformed-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -404,6 +405,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/biniam0/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/biniam0/LeetCode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/biniam0/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3651-transformed-array](https://github.com/biniam0/LeetCode/tree/master/3651-transformed-array) |
 ## Design
 |  |
 | ------- |
