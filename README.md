@@ -318,6 +318,7 @@
 | [0125-valid-palindrome](https://github.com/biniam0/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/biniam0/LeetCode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/biniam0/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/biniam0/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/biniam0/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/biniam0/LeetCode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/biniam0/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -449,6 +450,7 @@
 | [0187-repeated-dna-sequences](https://github.com/biniam0/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/biniam0/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/biniam0/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/biniam0/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/biniam0/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/biniam0/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/biniam0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -573,6 +575,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/biniam0/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/biniam0/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/biniam0/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/biniam0/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/biniam0/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/biniam0/LeetCode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/biniam0/LeetCode/tree/master/0349-intersection-of-two-arrays) |
