@@ -416,6 +416,7 @@
 | [0729-my-calendar-i](https://github.com/biniam0/LeetCode/tree/master/0729-my-calendar-i) |
 | [0860-design-circular-queue](https://github.com/biniam0/LeetCode/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/biniam0/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [2778-frequency-tracker](https://github.com/biniam0/LeetCode/tree/master/2778-frequency-tracker) |
 ## Queue
 |  |
 | ------- |
@@ -490,6 +491,7 @@
 | [2677-cousins-in-binary-tree-ii](https://github.com/biniam0/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/biniam0/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/biniam0/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2778-frequency-tracker](https://github.com/biniam0/LeetCode/tree/master/2778-frequency-tracker) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/biniam0/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/biniam0/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
