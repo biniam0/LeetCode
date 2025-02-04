@@ -349,6 +349,7 @@
 | [1923-sentence-similarity-iii](https://github.com/biniam0/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1970-sorting-the-sentence](https://github.com/biniam0/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/biniam0/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/biniam0/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/biniam0/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/biniam0/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/biniam0/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -391,6 +392,7 @@
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/biniam0/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/biniam0/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/biniam0/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/biniam0/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/biniam0/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/biniam0/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/biniam0/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
