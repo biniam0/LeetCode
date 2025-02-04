@@ -1,13 +1,14 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        dict_idx = {}
+        nums_idx = sorted([[num, i]
+                      for i, num in enumerate(nums)], key=lambda item: item[0])
+        l, r = 0, len(nums)-1
 
-        for i in range(len(nums)):
-            complement = target - nums[i]
-            if complement in dict_idx:
-                return [dict_idx[complement], i]
-            dict_idx[nums[i]] = i
-            
-        return []
+        while l < r:
+            if nums_idx[l][0] + nums_idx[r][0] > target:
+                r -= 1
+            elif nums_idx[l][0] + nums_idx[r][0] < target:
+                l += 1
+            else:
+                return [nums_idx[l][1], nums_idx[r][1]]
 
-        
