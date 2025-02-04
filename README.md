@@ -294,6 +294,7 @@
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/biniam0/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2491-smallest-even-multiple](https://github.com/biniam0/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/biniam0/LeetCode/tree/master/2556-convert-the-temperature) |
+| [2645-pass-the-pillow](https://github.com/biniam0/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/biniam0/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2716-prime-subtraction-operation](https://github.com/biniam0/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2812-find-the-maximum-achievable-number](https://github.com/biniam0/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -397,6 +398,7 @@
 | [2470-removing-stars-from-a-string](https://github.com/biniam0/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/biniam0/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/biniam0/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
+| [2645-pass-the-pillow](https://github.com/biniam0/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/biniam0/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/biniam0/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/biniam0/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
