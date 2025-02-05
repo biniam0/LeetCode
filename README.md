@@ -359,6 +359,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/biniam0/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/biniam0/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1970-sorting-the-sentence](https://github.com/biniam0/LeetCode/tree/master/1970-sorting-the-sentence) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/biniam0/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/biniam0/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/biniam0/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/biniam0/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -495,6 +496,7 @@
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/biniam0/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/biniam0/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/biniam0/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/biniam0/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/biniam0/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/biniam0/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/biniam0/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -643,6 +645,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/biniam0/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/biniam0/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/biniam0/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/biniam0/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/biniam0/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/biniam0/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/biniam0/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
