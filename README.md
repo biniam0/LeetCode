@@ -136,6 +136,7 @@
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/biniam0/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/biniam0/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/biniam0/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/biniam0/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/biniam0/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1449-print-words-vertically](https://github.com/biniam0/LeetCode/tree/master/1449-print-words-vertically) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/biniam0/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -479,6 +480,7 @@
 | [1217-relative-sort-array](https://github.com/biniam0/LeetCode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/biniam0/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/biniam0/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/biniam0/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/biniam0/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/biniam0/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/biniam0/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -598,6 +600,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/biniam0/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1217-relative-sort-array](https://github.com/biniam0/LeetCode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/biniam0/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/biniam0/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/biniam0/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/biniam0/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/biniam0/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -627,6 +630,7 @@
 | [0229-majority-element-ii](https://github.com/biniam0/LeetCode/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/biniam0/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/biniam0/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/biniam0/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/biniam0/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/biniam0/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/biniam0/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
