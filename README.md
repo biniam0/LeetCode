@@ -104,6 +104,7 @@
 | [0561-array-partition](https://github.com/biniam0/LeetCode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/biniam0/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/biniam0/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/biniam0/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/biniam0/LeetCode/tree/master/0609-find-duplicate-file-in-system) |
 | [0724-find-pivot-index](https://github.com/biniam0/LeetCode/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/biniam0/LeetCode/tree/master/0729-my-calendar-i) |
@@ -333,6 +334,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/biniam0/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/biniam0/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/biniam0/LeetCode/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/biniam0/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/biniam0/LeetCode/tree/master/0609-find-duplicate-file-in-system) |
 | [0812-rotate-string](https://github.com/biniam0/LeetCode/tree/master/0812-rotate-string) |
 | [0829-subdomain-visit-count](https://github.com/biniam0/LeetCode/tree/master/0829-subdomain-visit-count) |
@@ -477,6 +479,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/biniam0/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/biniam0/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/biniam0/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/biniam0/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/biniam0/LeetCode/tree/master/0609-find-duplicate-file-in-system) |
 | [0797-rabbits-in-forest](https://github.com/biniam0/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/biniam0/LeetCode/tree/master/0829-subdomain-visit-count) |
