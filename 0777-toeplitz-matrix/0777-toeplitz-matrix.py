@@ -1,21 +1,13 @@
 class Solution:
     def isToeplitzMatrix(self, matrix: List[List[int]]) -> bool:
-        def is_diagonal_univalue(row, col):
-            val = matrix[row][col]
+        m = len(matrix)
+        n = len(matrix[0])
 
-            while row < len(matrix) and col < len(matrix[0]):
-                if matrix[row][col] != val:
-                    return False
-                row += 1
-                col += 1
-            return True
-
-        for col in range(len(matrix[0])):
-            if not is_diagonal_univalue(0, col):
-                return False
-
-        for row in range(1, len(matrix)):
-            if not is_diagonal_univalue(row, 0):
-                return False
+        for i in range(m):
+            for j in range(n):
+                cur_num = matrix[i][j]
+                if i+1 < m and j+1 < n:
+                    if cur_num != matrix[i+1][j+1]:
+                        return False
 
         return True
