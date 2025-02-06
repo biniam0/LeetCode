@@ -69,6 +69,7 @@
 | [0053-maximum-subarray](https://github.com/biniam0/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/biniam0/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/biniam0/LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/biniam0/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/biniam0/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/biniam0/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/biniam0/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -269,6 +270,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/biniam0/LeetCode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/biniam0/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/biniam0/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/biniam0/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/biniam0/LeetCode/tree/master/0661-image-smoother) |
@@ -478,6 +480,7 @@
 | [0012-integer-to-roman](https://github.com/biniam0/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/biniam0/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/biniam0/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/biniam0/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/biniam0/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/biniam0/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/biniam0/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
