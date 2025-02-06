@@ -136,6 +136,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/biniam0/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/biniam0/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/biniam0/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/biniam0/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1044-find-common-characters](https://github.com/biniam0/LeetCode/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/biniam0/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/biniam0/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -422,6 +423,7 @@
 | [0861-flipping-an-image](https://github.com/biniam0/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/biniam0/LeetCode/tree/master/0898-transpose-matrix) |
 | [0983-validate-stack-sequences](https://github.com/biniam0/LeetCode/tree/master/0983-validate-stack-sequences) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/biniam0/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1449-print-words-vertically](https://github.com/biniam0/LeetCode/tree/master/1449-print-words-vertically) |
 | [1642-water-bottles](https://github.com/biniam0/LeetCode/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/biniam0/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
