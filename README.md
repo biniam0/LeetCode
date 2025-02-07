@@ -314,6 +314,7 @@
 | [1013-fibonacci-number](https://github.com/biniam0/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/biniam0/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/biniam0/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/biniam0/LeetCode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/biniam0/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1370-count-number-of-nice-subarrays](https://github.com/biniam0/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/biniam0/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -524,6 +525,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/biniam0/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/biniam0/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/biniam0/LeetCode/tree/master/1044-find-common-characters) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/biniam0/LeetCode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/biniam0/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/biniam0/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1217-relative-sort-array](https://github.com/biniam0/LeetCode/tree/master/1217-relative-sort-array) |
