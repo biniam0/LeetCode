@@ -128,6 +128,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/biniam0/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0898-transpose-matrix](https://github.com/biniam0/LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/biniam0/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0952-word-subsets](https://github.com/biniam0/LeetCode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/biniam0/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0978-valid-mountain-array](https://github.com/biniam0/LeetCode/tree/master/0978-valid-mountain-array) |
 | [0981-delete-columns-to-make-sorted](https://github.com/biniam0/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
@@ -361,6 +362,7 @@
 | [0812-rotate-string](https://github.com/biniam0/LeetCode/tree/master/0812-rotate-string) |
 | [0829-subdomain-visit-count](https://github.com/biniam0/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0858-masking-personal-information](https://github.com/biniam0/LeetCode/tree/master/0858-masking-personal-information) |
+| [0952-word-subsets](https://github.com/biniam0/LeetCode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/biniam0/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0981-delete-columns-to-make-sorted](https://github.com/biniam0/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/biniam0/LeetCode/tree/master/1044-find-common-characters) |
@@ -517,6 +519,7 @@
 | [0609-find-duplicate-file-in-system](https://github.com/biniam0/LeetCode/tree/master/0609-find-duplicate-file-in-system) |
 | [0797-rabbits-in-forest](https://github.com/biniam0/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/biniam0/LeetCode/tree/master/0829-subdomain-visit-count) |
+| [0952-word-subsets](https://github.com/biniam0/LeetCode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/biniam0/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/biniam0/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/biniam0/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
