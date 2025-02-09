@@ -1,28 +1,26 @@
+from sortedcontainers import SortedList
+
 class NumberContainers:
 
     def __init__(self):
-        # Initializing the defaultdict with SortedSet and the regular dictionary
-        # Map from number to set of indices
-        self.number_to_indices = collections.defaultdict(SortedSet)
-        # Map from index to number
-        self.index_to_number = {}
+        self.idx_val = defaultdict(int)
+        self.val_idx = defaultdict(SortedList)
 
     def change(self, index: int, number: int) -> None:
-        # If index already has a number, remove it from the old number's index set
-        if index in self.index_to_number:
-            previous_number = self.index_to_number[index]
-            self.number_to_indices[previous_number].remove(index)
-            if not self.number_to_indices[previous_number]:
-                del self.number_to_indices[previous_number]
-
-        # Update the number and add the index to the new number's set
-        self.index_to_number[index] = number
-        self.number_to_indices[number].add(index)
+        if index in self.idx_val:
+            tmp_val = self.idx_val[index]
+            self.idx_val[index] = number
+            self.val_idx[tmp_val].discard(index)
+            if len(self.val_idx[number]) == 0:
+                del self.val_idx[number]
+            self.val_idx[number].add(index)
+        else:
+            self.idx_val[index] = number
+            self.val_idx[number].add(index)
 
     def find(self, number: int) -> int:
-        # Return the smallest index for the given number, or -1 if not found
-        if number in self.number_to_indices and self.number_to_indices[number]:
-            return self.number_to_indices[number][0]
+        if len(self.val_idx[number]) and number in self.val_idx:
+            return self.val_idx[number][0]
         return -1
 
 
