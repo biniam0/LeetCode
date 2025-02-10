@@ -1,19 +1,24 @@
-class Solution(object):
-    def rotate(self, matrix):
+class Solution:
+    def rotate(self, matrix: List[List[int]]) -> None:
         """
-        :type matrix: List[List[int]]
-        :rtype: None Do not return anything, modify matrix in-place instead.
+        Do not return anything, modify matrix in-place instead.
         """
-        l = 0
-        r = len(matrix)-1
+
+        l, r = 0, len(matrix)-1
+
         while l < r:
-            matrix[l], matrix[r] = matrix[r], matrix[l]
+            for i in range(r-l):
+                t, b = l, r
+
+                tl = matrix[t][l + i]
+
+                matrix[t][l + i] = matrix[b - i][l]
+
+                matrix[b - i][l] = matrix[b][r-i]
+
+                matrix[b][r - i] = matrix[t + i][r]
+
+                matrix[t + i][r] = tl
+
             l += 1
             r -= 1
-
-        for i in range(len(matrix)):
-            for j in range(i+1, len(matrix)):
-                matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
-
-        return matrix
-            
