@@ -1,19 +1,14 @@
-from collections import Counter
-class Solution(object):
-    def relativeSortArray(self, arr1, arr2):
-        """
-        :type arr1: List[int]
-        :type arr2: List[int]
-        :rtype: List[int]
-        """
-        arr1_dict = Counter(arr1)
-        res = []
-        for num in arr2:
-            rep = arr1_dict[num]
-            res.extend([num]*rep)
-            del arr1_dict[num]
+class Solution:
+    def relativeSortArray(self, arr1: List[int], arr2: List[int]) -> List[int]:
+        ans = []
 
-        for num in sorted(arr1_dict.keys()):
-            res.extend([num]*arr1_dict[num])
+        count = Counter(arr1)
 
-        return res
+        for i in range(len(arr2)):
+            tmp = [arr2[i]] * count[arr2[i]]
+            del count[arr2[i]]
+            ans.extend(tmp)
+        count = dict(sorted(count.items(), key=lambda item: item[0]))
+        for val, freq in count.items():
+            ans.extend([val]*freq)
+        return ans
