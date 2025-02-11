@@ -1,15 +1,10 @@
-class Solution(object):
-    def smallerNumbersThanCurrent(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[int]
-        """
-        
-        sorted_nums = sorted(nums)
-        num_dict = {}
-        for idx, num in enumerate(sorted_nums):
-            if num not in num_dict:
-                num_dict[num] = idx
-
-        result = [num_dict[num] for num in nums]
-        return result
+class Solution:
+    def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
+        tmp_nums = nums
+        nums = sorted(nums)
+        nums_idx = {}
+        for i, num in enumerate(nums):
+            if num not in nums_idx:
+                nums_idx[num] = i
+        res = [nums_idx[num] for num in tmp_nums]
+        return res
