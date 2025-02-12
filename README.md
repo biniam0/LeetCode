@@ -129,6 +129,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/biniam0/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0898-transpose-matrix](https://github.com/biniam0/LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/biniam0/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0917-boats-to-save-people](https://github.com/biniam0/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/biniam0/LeetCode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/biniam0/LeetCode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/biniam0/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -260,6 +261,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/biniam0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/biniam0/LeetCode/tree/master/0567-permutation-in-string) |
 | [0861-flipping-an-image](https://github.com/biniam0/LeetCode/tree/master/0861-flipping-an-image) |
+| [0917-boats-to-save-people](https://github.com/biniam0/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/biniam0/LeetCode/tree/master/1009-pancake-sorting) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/biniam0/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/biniam0/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -669,6 +671,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/biniam0/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/biniam0/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/biniam0/LeetCode/tree/master/0883-car-fleet) |
+| [0917-boats-to-save-people](https://github.com/biniam0/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/biniam0/LeetCode/tree/master/0948-sort-an-array) |
 | [1009-pancake-sorting](https://github.com/biniam0/LeetCode/tree/master/1009-pancake-sorting) |
 | [1014-k-closest-points-to-origin](https://github.com/biniam0/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -759,6 +762,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/biniam0/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/biniam0/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/biniam0/LeetCode/tree/master/0890-lemonade-change) |
+| [0917-boats-to-save-people](https://github.com/biniam0/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/biniam0/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1009-pancake-sorting](https://github.com/biniam0/LeetCode/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/biniam0/LeetCode/tree/master/1018-largest-perimeter-triangle) |
