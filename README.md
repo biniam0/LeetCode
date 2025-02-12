@@ -962,6 +962,7 @@
 | [0561-array-partition](https://github.com/biniam0/LeetCode/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/biniam0/LeetCode/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/biniam0/LeetCode/tree/master/1217-relative-sort-array) |
+| [1961-maximum-ice-cream-bars](https://github.com/biniam0/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/biniam0/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Game Theory
 |  |
