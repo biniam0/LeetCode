@@ -1,22 +1,23 @@
-class Solution(object):
-    def maxIceCream(self, costs, coins):
-        """
-        :type costs: List[int]
-        :type coins: int
-        :rtype: int
-        """
-        costs.sort()
-        counts = 0
-        total = 0
-
-        if costs[0] > coins:
-            return 0
-
-        for cost in costs:
-            total += cost
-            if total <= coins:
-                counts += 1
-        else:
-            return counts
-            
+class Solution:
+    def maxIceCream(self, costs: List[int], coins: int) -> int:
+        cnt = [0]*(max(costs)+1)
+        for c in costs:
+            cnt[c] += 1
         
+        tot, bars = 0, 0
+        for i in range(len(cnt)):
+            if cnt[i] != 0:
+                tmp = cnt[i]
+                for j in range(1, tmp+1):
+                    tot += i
+                    if tot > coins:
+                        break
+                    elif tot == coins:
+                        bars += 1
+                        break
+                    bars += 1
+
+        return bars
+
+
+
