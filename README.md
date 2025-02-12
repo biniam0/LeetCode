@@ -199,6 +199,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/biniam0/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/biniam0/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/biniam0/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/biniam0/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/biniam0/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/biniam0/LeetCode/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/biniam0/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -562,6 +563,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/biniam0/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/biniam0/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/biniam0/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/biniam0/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/biniam0/LeetCode/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/biniam0/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/biniam0/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -687,6 +689,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/biniam0/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/biniam0/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/biniam0/LeetCode/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/biniam0/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/biniam0/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/biniam0/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/biniam0/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -869,6 +872,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/biniam0/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/biniam0/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/biniam0/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/biniam0/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/biniam0/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/biniam0/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/biniam0/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
