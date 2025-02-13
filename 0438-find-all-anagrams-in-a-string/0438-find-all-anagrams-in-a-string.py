@@ -1,20 +1,18 @@
 class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:
-        res = []
-        m = len(p)
-        p_count = Counter(p)
-        s_count = Counter()
+        p_freq = Counter(p)
+        sub_freq = Counter()
+        ans = []
 
         l = 0
         for r in range(len(s)):
-            s_count[s[r]] += 1
+            sub_freq[s[r]] += 1
 
-            if r >= m:
-                s_count[s[l]] -= 1
-                if s_count[s[l]] == 0:
-                    del s_count[s[l]]
+            if r-l+1 > len(p):
+                sub_freq[s[l]] -= 1
                 l += 1
-            if s_count == p_count:
-                res.append(l)
 
-        return res
+            if sub_freq == p_freq:
+                ans.append(l)
+
+        return ans
