@@ -262,6 +262,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/biniam0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/biniam0/LeetCode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/biniam0/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0768-partition-labels](https://github.com/biniam0/LeetCode/tree/master/0768-partition-labels) |
 | [0861-flipping-an-image](https://github.com/biniam0/LeetCode/tree/master/0861-flipping-an-image) |
 | [0917-boats-to-save-people](https://github.com/biniam0/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/biniam0/LeetCode/tree/master/1009-pancake-sorting) |
@@ -374,6 +375,7 @@
 | [0567-permutation-in-string](https://github.com/biniam0/LeetCode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/biniam0/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/biniam0/LeetCode/tree/master/0609-find-duplicate-file-in-system) |
+| [0768-partition-labels](https://github.com/biniam0/LeetCode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/biniam0/LeetCode/tree/master/0812-rotate-string) |
 | [0829-subdomain-visit-count](https://github.com/biniam0/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0858-masking-personal-information](https://github.com/biniam0/LeetCode/tree/master/0858-masking-personal-information) |
@@ -537,6 +539,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/biniam0/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/biniam0/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/biniam0/LeetCode/tree/master/0609-find-duplicate-file-in-system) |
+| [0768-partition-labels](https://github.com/biniam0/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/biniam0/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/biniam0/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0952-word-subsets](https://github.com/biniam0/LeetCode/tree/master/0952-word-subsets) |
@@ -762,6 +765,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/biniam0/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/biniam0/LeetCode/tree/master/0561-array-partition) |
 | [0670-maximum-swap](https://github.com/biniam0/LeetCode/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/biniam0/LeetCode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/biniam0/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/biniam0/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/biniam0/LeetCode/tree/master/0890-lemonade-change) |
