@@ -1,15 +1,15 @@
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
-        
-        l, r = 0, len(s1)-1
-        s1 = sorted(s1)
-
-        while r < len(s2):
-            sub_str = s2[l:r+1]
-            
-            if s1 == sorted(sub_str):
+        n, m = len(s1), len(s2)
+        s1_freq, s2_freq = Counter(s1), Counter()
+        l = 0
+        for r in range(m):
+            s2_freq[s2[r]] += 1
+            if r-l+1 > n:
+                s2_freq[s2[l]] -= 1
+                if s2_freq[s2[l]] == 0:
+                    del s2_freq[s2[l]]
+                l += 1
+            if s1_freq == s2_freq:
                 return True
-            l += 1
-            r += 1
-
         return False
