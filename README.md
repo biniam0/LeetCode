@@ -157,6 +157,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/biniam0/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1449-print-words-vertically](https://github.com/biniam0/LeetCode/tree/master/1449-print-words-vertically) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/biniam0/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/biniam0/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/biniam0/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/biniam0/LeetCode/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/biniam0/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -333,6 +334,7 @@
 | [1064-smallest-integer-divisible-by-k](https://github.com/biniam0/LeetCode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/biniam0/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1370-count-number-of-nice-subarrays](https://github.com/biniam0/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1477-product-of-the-last-k-numbers](https://github.com/biniam0/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/biniam0/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/biniam0/LeetCode/tree/master/1642-water-bottles) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/biniam0/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -491,6 +493,7 @@
 | [0729-my-calendar-i](https://github.com/biniam0/LeetCode/tree/master/0729-my-calendar-i) |
 | [0860-design-circular-queue](https://github.com/biniam0/LeetCode/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/biniam0/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [1477-product-of-the-last-k-numbers](https://github.com/biniam0/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/biniam0/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2778-frequency-tracker](https://github.com/biniam0/LeetCode/tree/master/2778-frequency-tracker) |
 ## Queue
@@ -510,6 +513,7 @@
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/biniam0/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [1477-product-of-the-last-k-numbers](https://github.com/biniam0/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -754,6 +758,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/biniam0/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/biniam0/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/biniam0/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1477-product-of-the-last-k-numbers](https://github.com/biniam0/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/biniam0/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/biniam0/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/biniam0/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
