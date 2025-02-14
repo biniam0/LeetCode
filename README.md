@@ -400,6 +400,7 @@
 | [1304-longest-happy-string](https://github.com/biniam0/LeetCode/tree/master/1304-longest-happy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/biniam0/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/biniam0/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/biniam0/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/biniam0/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1449-print-words-vertically](https://github.com/biniam0/LeetCode/tree/master/1449-print-words-vertically) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/biniam0/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -934,6 +935,7 @@
 | [0940-fruit-into-baskets](https://github.com/biniam0/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/biniam0/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/biniam0/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/biniam0/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1370-count-number-of-nice-subarrays](https://github.com/biniam0/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/biniam0/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1755-defuse-the-bomb](https://github.com/biniam0/LeetCode/tree/master/1755-defuse-the-bomb) |
