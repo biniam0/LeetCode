@@ -145,6 +145,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/biniam0/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/biniam0/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/biniam0/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1028-interval-list-intersections](https://github.com/biniam0/LeetCode/tree/master/1028-interval-list-intersections) |
 | [1044-find-common-characters](https://github.com/biniam0/LeetCode/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/biniam0/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/biniam0/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -272,6 +273,7 @@
 | [0861-flipping-an-image](https://github.com/biniam0/LeetCode/tree/master/0861-flipping-an-image) |
 | [0917-boats-to-save-people](https://github.com/biniam0/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/biniam0/LeetCode/tree/master/1009-pancake-sorting) |
+| [1028-interval-list-intersections](https://github.com/biniam0/LeetCode/tree/master/1028-interval-list-intersections) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/biniam0/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/biniam0/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/biniam0/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -1115,4 +1117,8 @@
 | ------- |
 | [0164-maximum-gap](https://github.com/biniam0/LeetCode/tree/master/0164-maximum-gap) |
 | [0948-sort-an-array](https://github.com/biniam0/LeetCode/tree/master/0948-sort-an-array) |
+## Line Sweep
+|  |
+| ------- |
+| [1028-interval-list-intersections](https://github.com/biniam0/LeetCode/tree/master/1028-interval-list-intersections) |
 <!---LeetCode Topics End-->
