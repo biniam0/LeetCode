@@ -1,22 +1,23 @@
 class ProductOfNumbers:
 
     def __init__(self):
-        self.stream = []
-        self.prefix_prod = [1]
-        self.size = 0
+        self.nums = []
+        self.prefix = [1]
         
     def add(self, num: int) -> None:
+        self.nums.append(num)
         if num == 0:
-            self.prefix_prod = [1]
-            self.size = 0
+            self.prefix = [1] 
             return 
-        self.prefix_prod.append(self.prefix_prod[self.size]*num)
-        self.size += 1
+         
+        self.prefix.append(self.prefix[-1] * num)
+        
 
     def getProduct(self, k: int) -> int:
-        if k > self.size:
+        if k > len(self.prefix)-1:
             return 0
-        return self.prefix_prod[self.size]//self.prefix_prod[self.size-k]
+        return self.prefix[-1]//self.prefix[len(self.prefix)-k-1]
+        
         
 
 # Your ProductOfNumbers object will be instantiated and called as such:
