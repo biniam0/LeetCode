@@ -95,6 +95,7 @@
 | [0283-move-zeroes](https://github.com/biniam0/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/biniam0/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/biniam0/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/biniam0/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/biniam0/LeetCode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/biniam0/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/biniam0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -302,6 +303,7 @@
 | [0054-spiral-matrix](https://github.com/biniam0/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/biniam0/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/biniam0/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0304-range-sum-query-2d-immutable](https://github.com/biniam0/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/biniam0/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/biniam0/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/biniam0/LeetCode/tree/master/0661-image-smoother) |
@@ -500,6 +502,7 @@
 | [0225-implement-stack-using-queues](https://github.com/biniam0/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/biniam0/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/biniam0/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/biniam0/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/biniam0/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0729-my-calendar-i](https://github.com/biniam0/LeetCode/tree/master/0729-my-calendar-i) |
 | [0860-design-circular-queue](https://github.com/biniam0/LeetCode/tree/master/0860-design-circular-queue) |
@@ -763,6 +766,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/biniam0/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/biniam0/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/biniam0/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/biniam0/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/biniam0/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/biniam0/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/biniam0/LeetCode/tree/master/0724-find-pivot-index) |
