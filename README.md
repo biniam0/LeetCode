@@ -207,6 +207,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/biniam0/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/biniam0/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/biniam0/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2465-shifting-letters-ii](https://github.com/biniam0/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/biniam0/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/biniam0/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/biniam0/LeetCode/tree/master/2502-sort-the-people) |
@@ -432,6 +433,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/biniam0/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/biniam0/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/biniam0/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2465-shifting-letters-ii](https://github.com/biniam0/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/biniam0/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/biniam0/LeetCode/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/biniam0/LeetCode/tree/master/2580-circular-sentence) |
@@ -776,6 +778,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/biniam0/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2102-find-the-middle-index-in-array](https://github.com/biniam0/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/biniam0/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/biniam0/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/biniam0/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/biniam0/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/biniam0/LeetCode/tree/master/3427-special-array-ii) |
