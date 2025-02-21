@@ -505,6 +505,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/biniam0/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/biniam0/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0729-my-calendar-i](https://github.com/biniam0/LeetCode/tree/master/0729-my-calendar-i) |
+| [0838-design-linked-list](https://github.com/biniam0/LeetCode/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/biniam0/LeetCode/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/biniam0/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/biniam0/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -997,6 +998,7 @@
 | [0206-reverse-linked-list](https://github.com/biniam0/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/biniam0/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/biniam0/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0838-design-linked-list](https://github.com/biniam0/LeetCode/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/biniam0/LeetCode/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/biniam0/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
