@@ -165,6 +165,7 @@
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/biniam0/LeetCode/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/biniam0/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/biniam0/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1582-design-browser-history](https://github.com/biniam0/LeetCode/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/biniam0/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/biniam0/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/biniam0/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -511,6 +512,7 @@
 | [0860-design-circular-queue](https://github.com/biniam0/LeetCode/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/biniam0/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/biniam0/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1582-design-browser-history](https://github.com/biniam0/LeetCode/tree/master/1582-design-browser-history) |
 | [2434-design-a-number-container-system](https://github.com/biniam0/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2778-frequency-tracker](https://github.com/biniam0/LeetCode/tree/master/2778-frequency-tracker) |
 ## Queue
@@ -531,6 +533,7 @@
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/biniam0/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/biniam0/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1582-design-browser-history](https://github.com/biniam0/LeetCode/tree/master/1582-design-browser-history) |
 ## Hash Table
 |  |
 | ------- |
@@ -641,6 +644,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/biniam0/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/biniam0/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/biniam0/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1582-design-browser-history](https://github.com/biniam0/LeetCode/tree/master/1582-design-browser-history) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/biniam0/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/biniam0/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/biniam0/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -1008,6 +1012,7 @@
 | [0838-design-linked-list](https://github.com/biniam0/LeetCode/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/biniam0/LeetCode/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/biniam0/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1582-design-browser-history](https://github.com/biniam0/LeetCode/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -1148,4 +1153,5 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/biniam0/LeetCode/tree/master/0146-lru-cache) |
+| [1582-design-browser-history](https://github.com/biniam0/LeetCode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
