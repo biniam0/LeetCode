@@ -499,6 +499,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/biniam0/LeetCode/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/biniam0/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/biniam0/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/biniam0/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -542,6 +543,7 @@
 | [0076-minimum-window-substring](https://github.com/biniam0/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/biniam0/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/biniam0/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/biniam0/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/biniam0/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/biniam0/LeetCode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/biniam0/LeetCode/tree/master/0187-repeated-dna-sequences) |
@@ -991,6 +993,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/biniam0/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/biniam0/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/biniam0/LeetCode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/biniam0/LeetCode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/biniam0/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/biniam0/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/biniam0/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -1137,4 +1140,8 @@
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/biniam0/LeetCode/tree/master/1028-interval-list-intersections) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/biniam0/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
