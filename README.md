@@ -153,6 +153,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/biniam0/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1217-relative-sort-array](https://github.com/biniam0/LeetCode/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/biniam0/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1242-matrix-block-sum](https://github.com/biniam0/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/biniam0/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/biniam0/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/biniam0/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -314,6 +315,7 @@
 | [0898-transpose-matrix](https://github.com/biniam0/LeetCode/tree/master/0898-transpose-matrix) |
 | [0999-regions-cut-by-slashes](https://github.com/biniam0/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/biniam0/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1242-matrix-block-sum](https://github.com/biniam0/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1791-richest-customer-wealth](https://github.com/biniam0/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1972-rotating-the-box](https://github.com/biniam0/LeetCode/tree/master/1972-rotating-the-box) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/biniam0/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -783,6 +785,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/biniam0/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/biniam0/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/biniam0/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1242-matrix-block-sum](https://github.com/biniam0/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/biniam0/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/biniam0/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/biniam0/LeetCode/tree/master/1603-running-sum-of-1d-array) |
