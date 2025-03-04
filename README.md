@@ -178,6 +178,7 @@
 | [1755-defuse-the-bomb](https://github.com/biniam0/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/biniam0/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/biniam0/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/biniam0/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/biniam0/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/biniam0/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/biniam0/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -1065,6 +1066,7 @@
 | [0322-coin-change](https://github.com/biniam0/LeetCode/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/biniam0/LeetCode/tree/master/0413-arithmetic-slices) |
 | [1013-fibonacci-number](https://github.com/biniam0/LeetCode/tree/master/1013-fibonacci-number) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/biniam0/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2164-two-best-non-overlapping-events](https://github.com/biniam0/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/biniam0/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/biniam0/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
