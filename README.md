@@ -366,6 +366,7 @@
 | [2715-k-items-with-the-maximum-sum](https://github.com/biniam0/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2716-prime-subtraction-operation](https://github.com/biniam0/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2812-find-the-maximum-achievable-number](https://github.com/biniam0/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3055-maximum-odd-binary-number](https://github.com/biniam0/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/biniam0/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/biniam0/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Number Theory
@@ -453,6 +454,7 @@
 | [2727-number-of-senior-citizens](https://github.com/biniam0/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/biniam0/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/biniam0/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3055-maximum-odd-binary-number](https://github.com/biniam0/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/biniam0/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/biniam0/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/biniam0/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -842,6 +844,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/biniam0/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/biniam0/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2716-prime-subtraction-operation](https://github.com/biniam0/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [3055-maximum-odd-binary-number](https://github.com/biniam0/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3151-minimum-processing-time](https://github.com/biniam0/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3195-separate-black-and-white-balls](https://github.com/biniam0/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
