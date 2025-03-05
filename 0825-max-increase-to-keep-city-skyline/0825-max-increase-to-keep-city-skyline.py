@@ -3,31 +3,21 @@ class Solution:
         r = len(grid)
         c = len(grid[0])
 
-        grid_new = [[0]*c for _ in range(r)]
-        
-        for i in range(r):
-            cur_max = 0
-            for j in range(c):
-                cur_max = max(cur_max, grid[i][j])
-            for j in range(c):
-                grid_new[i][j] = cur_max
-            
-        for j in range(c):
-            cur_max = 0
-            for i in range(r):
-                cur_max = max(cur_max, grid[i][j])
-            for i in range(r):
-                grid_new[i][j] = min(cur_max, grid_new[i][j])
+        row_max = [0]*r
+        col_max = [0]*c
 
+        for i in range(r):
+            for j in range(c):
+                row_max[i] = max(row_max[i], grid[i][j])
+                col_max[j] = max(col_max[j], grid[i][j])
         ans = 0
         for i in range(r):
             for j in range(c):
-                ans += abs(grid_new[i][j] - grid[i][j])
+                tmp = min(row_max[i], col_max[j])
+                ans += tmp - grid[i][j]
 
         return ans
 
         
         
-
-
         
