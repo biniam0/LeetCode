@@ -526,6 +526,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/biniam0/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/biniam0/LeetCode/tree/master/1582-design-browser-history) |
 | [2434-design-a-number-container-system](https://github.com/biniam0/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/biniam0/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2778-frequency-tracker](https://github.com/biniam0/LeetCode/tree/master/2778-frequency-tracker) |
 ## Queue
 |  |
@@ -539,6 +540,7 @@
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/biniam0/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/biniam0/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/biniam0/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/biniam0/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2868-continuous-subarrays](https://github.com/biniam0/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Data Stream
 |  |
@@ -546,6 +548,7 @@
 | [0969-number-of-recent-calls](https://github.com/biniam0/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/biniam0/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/biniam0/LeetCode/tree/master/1582-design-browser-history) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/biniam0/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Hash Table
 |  |
 | ------- |
@@ -625,6 +628,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/biniam0/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/biniam0/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/biniam0/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/biniam0/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/biniam0/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/biniam0/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/biniam0/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -784,6 +788,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/biniam0/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/biniam0/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/biniam0/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/biniam0/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/biniam0/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/biniam0/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
