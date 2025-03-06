@@ -408,6 +408,7 @@
 | [0812-rotate-string](https://github.com/biniam0/LeetCode/tree/master/0812-rotate-string) |
 | [0829-subdomain-visit-count](https://github.com/biniam0/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0858-masking-personal-information](https://github.com/biniam0/LeetCode/tree/master/0858-masking-personal-information) |
+| [0886-score-of-parentheses](https://github.com/biniam0/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0952-word-subsets](https://github.com/biniam0/LeetCode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/biniam0/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0981-delete-columns-to-make-sorted](https://github.com/biniam0/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
@@ -655,6 +656,7 @@
 | [0739-daily-temperatures](https://github.com/biniam0/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/biniam0/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/biniam0/LeetCode/tree/master/0883-car-fleet) |
+| [0886-score-of-parentheses](https://github.com/biniam0/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/biniam0/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/biniam0/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/biniam0/LeetCode/tree/master/1002-maximum-width-ramp) |
