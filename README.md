@@ -127,6 +127,7 @@
 | [0797-rabbits-in-forest](https://github.com/biniam0/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/biniam0/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0829-subdomain-visit-count](https://github.com/biniam0/LeetCode/tree/master/0829-subdomain-visit-count) |
+| [0859-design-circular-deque](https://github.com/biniam0/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/biniam0/LeetCode/tree/master/0860-design-circular-queue) |
 | [0861-flipping-an-image](https://github.com/biniam0/LeetCode/tree/master/0861-flipping-an-image) |
 | [0883-car-fleet](https://github.com/biniam0/LeetCode/tree/master/0883-car-fleet) |
@@ -525,6 +526,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/biniam0/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0729-my-calendar-i](https://github.com/biniam0/LeetCode/tree/master/0729-my-calendar-i) |
 | [0838-design-linked-list](https://github.com/biniam0/LeetCode/tree/master/0838-design-linked-list) |
+| [0859-design-circular-deque](https://github.com/biniam0/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/biniam0/LeetCode/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/biniam0/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/biniam0/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -537,6 +539,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/biniam0/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/biniam0/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0859-design-circular-deque](https://github.com/biniam0/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/biniam0/LeetCode/tree/master/0860-design-circular-queue) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/biniam0/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0969-number-of-recent-calls](https://github.com/biniam0/LeetCode/tree/master/0969-number-of-recent-calls) |
@@ -1048,6 +1051,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/biniam0/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/biniam0/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/biniam0/LeetCode/tree/master/0838-design-linked-list) |
+| [0859-design-circular-deque](https://github.com/biniam0/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/biniam0/LeetCode/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/biniam0/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1582-design-browser-history](https://github.com/biniam0/LeetCode/tree/master/1582-design-browser-history) |
